@@ -8,7 +8,8 @@ Estudo dos fundamentos de .NET e C# aprendido a principal stack de desenvolvimen
 - Fundamentos do .NET
 - Manipulando Dados e Objetos com .NET
 - Programação Orientada a Objetos com C#;
-- Trbalhando com Desenvolvimento Orientado a Testes
+- Programação de APIs com Banco de Dados;
+- Trabalhando com Desenvolvimento Orientado a Testes.
 
 
 
@@ -38,4 +39,8 @@ Estudo dos fundamentos de .NET e C# aprendido a principal stack de desenvolvimen
     <p style="font-weight: normal;"><b>Sintaxe e  Tipos de Dados em C#:</b> É um simples exemplo de uma classe pessoa</p>
 </details>
 
+<details>
+    <summary><b>Manipulation Hospedagem <b></summary>
+    <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel</p>
+</details>
 
