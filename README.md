@@ -48,3 +48,8 @@ Estudo dos fundamentos de .NET e C# aprendido a principal stack de desenvolvimen
     <summary><b>POO: Smartphones <b></summary>
     <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para construir um sistema que trabalha com celulares, precisa realizar uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos</p>
 </details>
+
+<details>
+    <summary><b>API com Banco de dados: Consultas Relacionais <b></summary>
+    <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para realizar consultas no banco de dados com o objetivo de trazer alguns dados para análise, isso no banco Filmes</p>
+</details>
