@@ -53,3 +53,11 @@ Estudo dos fundamentos de .NET e C# aprendido a principal stack de desenvolvimen
     <summary><b>API com Banco de dados: Consultas Relacionais <b></summary>
     <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para realizar consultas no banco de dados com o objetivo de trazer alguns dados para análise, isso no banco Filmes</p>
 </details>
+<details>
+    <summary><b>API com Banco de dados: Consultas Relacionais <b></summary>
+    <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para realizar consultas no banco de dados com o objetivo de trazer alguns dados para análise, isso no banco Filmes</p>
+</details>
+<details>
+    <summary><b>API com Banco de dados: Gerenciador de tarefas <b></summary>
+    <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples de sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.</p>
+</details>
