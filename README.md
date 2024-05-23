@@ -61,3 +61,7 @@ Estudo dos fundamentos de .NET e C# aprendido a principal stack de desenvolvimen
     <summary><b>API com Banco de dados: Gerenciador de tarefas <b></summary>
     <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples de sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.</p>
 </details>
+<details>
+    <summary><b>Desenvolimento Orientado a Testes: Testes Unitários <b></summary>
+    <p style="font-weight: normal;"><b>Desafio:</b> Desafio simples para colocar em prática o que foi visto sobre testes</p>
+</details>
