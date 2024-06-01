@@ -36,7 +36,7 @@ namespace _00_pottencial_projeto_mvc.Controllers
 
             return Ok(item);
         }
-        [HttpGet("VisualizarTodosItens")]
+        [HttpGet("VisualizarTodosItenss")]
         public IActionResult VisualizarItens()
         {
             var item = _context.Items;
