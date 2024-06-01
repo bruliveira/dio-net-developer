@@ -1,3 +1,5 @@
+# User-specific files
+*.rsuser
 *.suo
 *.user
 *.sln.docstates
@@ -8,8 +10,6 @@
 x64/
 [Bb]in/
 [Oo]bj/
-# build folder is nowadays used for build scripts and should not be ignored
-#build/
 
 # NuGet Packages
 *.nupkg
@@ -24,6 +24,7 @@ x64/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+# Compiled source files
 *_i.c
 *_p.c
 *.ilk
@@ -48,7 +49,7 @@ x64/
 *.log
 *.scc
 
-# OS generated files #
+# OS generated files
 .DS_Store*
 Icon?
 
@@ -139,5 +140,15 @@ UpgradeLog*.htm
 *.swp
 *.swo
 
-# Visual Studio temp something
+# Visual Studio temp files
 .vs/
+
+# Node.js
+node_modules/
+
+# LibMan
+libman.json
+lib/
+
+# Bootstrap and other libraries managed via npm or LibMan
+wwwroot/lib/
